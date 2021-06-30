@@ -1,4 +1,7 @@
-                    GNU GENERAL PUBLIC LICENSE
+Copyright (C) 2021 Liberation Group
+
+
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
