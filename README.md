@@ -24,6 +24,8 @@ Your code must follow the standard style for Liberation Group code:<br/>
 - Tab spaces as indents.
 - 1 tab space is 4 characters.<br/>
 - Comments must be used as often as possible for each different part of code.
+- Comments must be concise. Do not make comments longer than necessary.
+- Code and comments must be professional. No funny or vulgar code or comments.
 <br/>
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
