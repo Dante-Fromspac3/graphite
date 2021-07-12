@@ -22,7 +22,7 @@ To contribute to the project, submit a pull request. All pull requests are subje
 Your code must follow the standard style for Liberation Group code:<br/>
 - 80 character line limit.
 - Tab spaces as indents.
-- 1 tab space is 4 characters.<br/>
+- 1 tab space is 4 characters.
 - Comments must be used as often as possible for each different part of code.
 - Comments must be concise. Do not make comments longer than necessary.
 - Code and comments must be professional. No funny or vulgar code or comments.
