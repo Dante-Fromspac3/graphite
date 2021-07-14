@@ -1,5 +1,4 @@
 # Chapter 2.
-
 label chapter1:
 
     scene black with Dissolve(1.5)

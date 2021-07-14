@@ -23,7 +23,7 @@ define gui.show_name = True
 
 ## The version of the game.
 
-define config.version = "1.00.00.0022"
+define config.version = "1.00.00.0023"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -38,7 +38,7 @@ https://www.gnu.org/licenses/gpl-3.0.en.html\n
 Anyone is free to view, study, copy, share, and modify the source code.\n
 All source code, including modifications, must be released under the same\n
 license terms. Credit must be given to the original source code copyright\n
-holders. A copy of GPLv3 license must be included.\n
+holder(s). A copy of GPLv3 license must be included.\n
 \n
 """)
 

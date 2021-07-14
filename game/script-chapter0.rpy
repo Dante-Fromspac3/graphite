@@ -51,10 +51,13 @@ label route0:
 
     # Set Emily expression to giggle.
 
-    e "You completely forgot about the festival didn’t you? *giggles* that is
-     so you."
+    e "You completely forgot about the festival didn’t you?"
+    
+    "Emily giggles."
+    
+    e "That is so you."
 
-    # Set Emily expression back to default.
+    show chr-emily-neut
 
     e "Anyway, I'm on the student committee, we oversee all the club\
     activities."
@@ -90,11 +93,11 @@ label route0:
 
         j "Yeah, I heard about that. Gentrification or something right?"
 
-        # Set Emily expression to happy
+        show chr-emily-smile
 
         e "Yes! That’s exactly it!"
 
-        # Set Emily expression back to default.
+        show chr-emily-neut
 
         e "And ever since the new train station got built,\
         the city wants to let some tech companies build offices and luxury\
@@ -117,16 +120,14 @@ label route0:
         right?"
 
         if chapter0_main_route == 0:
-
             jump choice1
 
         else:
-
             jump choice3
 
     label route0b:
 
-        # Set Emily expression to happy
+        show chr-emily-smile
 
         e "Great! I knew I could count on you! The fair is after last\
         bell in the student commons, okay?"
@@ -143,7 +144,7 @@ label route0:
 
     label route0c:
 
-        # Set Emily expression to annoyed
+        show chr-emily-annoy
 
         e "Really? Like what?"
 
@@ -181,7 +182,7 @@ label route0:
 
         label route0c2:
 
-            # Set Emily expression to disgust.
+            show chr-emily-disgust
 
             $ emily_points_love -= 1
 
@@ -205,7 +206,7 @@ label route0:
 
 label route1:
 
-    # Set Emily expression to disappointed.
+    show chr-emily-disap
 
     e "I mean, I guess I understand, {w}but this is for a good cause and I\
     promise it will be really fun."
@@ -228,11 +229,11 @@ label route1:
 
     label route1b:
 
-        # Set Emily expression to annoyed.
+        show chr-emily-annoy
 
         e "It's not a no I guess."
 
-        # Set Emily expression to default.
+        show chr-emily-neut
 
         e "Anyway, if you want to join us, the club fair is after last bell in the student commons."
 
@@ -243,7 +244,7 @@ label route1:
 
     label route1c:
 
-        # Set Emily expression to annoyed.
+        show chr-emily-annoy
 
         e "No need to be an ass about it."
 
@@ -258,7 +259,7 @@ label route1:
 
 label route2:
 
-    # Set Emily expression to suprised.
+    show chr-emily-surp
 
     e "Really? {w}That's great!"
 
@@ -267,7 +268,7 @@ label route2:
 
     j "Yeah, I’ll be there."
 
-    # Set Emily expression to Happy.
+    show chr-emily-smile
 
     e "Great, I’ll see you there then!"
 

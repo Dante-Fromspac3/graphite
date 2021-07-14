@@ -10,14 +10,17 @@ https://creativecommons.org/licenses/by-sa/3.0/legalcode<br/>
 Graphite is licensed under GPLv3<br/>
 https://www.gnu.org/licenses/gpl-3.0.en.html<br/>
 <br/>
-Anyone is free to view, study, copy, share, and modify the source code. All source code, including modifications,
-must be released under the same license terms. Credit must be given to the original source code copyright holder(s).<br/>
+Anyone is free to view, study, copy, share, and modify the source code. All<br/>
+source code, including modifications, must be released under the same<br/>
+license terms. Credit must be given to the original source code copyright<br/>
+holder(s).<br/>
 A copy of GPLv3 license must be included.
 <br/>
 
 ## Policy
 ### Contributing
-To contribute to the project, submit a pull request. All pull requests are subject to approval.<br/>
+To contribute to the project, submit a pull request. All pull requests are<br/>
+subject to approval.<br/>
 Your code must follow the standard style for Liberation Group code:<br/>
 - 80 character line limit.
 - Tab spaces as indents.
@@ -29,19 +32,22 @@ Your code must follow the standard style for Liberation Group code:<br/>
 Files must be stored in their related folders.<br/>
 Text files must be stored as plain text (.txt) or Markdown (.md) files.<br/>
 All dates and times must be ISO 8601 compliant (YYYY-MM-DD HH:MM).<br/>
-All filenames must be most significant to least significant, lowercase, and hyphens must be used instead of spaces.<br/>
+All filenames must be most significant to least significant, lowercase, and<br/>
+hyphens must be used instead of spaces.<br/>
 <br/>
 
 ## Branches
 
 ### dev
-Development branch. All pre-alpha development and alpha testing happens here.<br/>
+Development branch. All pre-alpha development and alpha testing happens<br/>
+here.<br/>
 Pull requests must be made to the dev branch.<br/>
 
 ### beta
 Beta branch. All beta testing of the software happens here.<br/>
 
 ### stable
-Stable branch. Complete and stable versions of the software are stored here.<br/>
+Stable branch. Complete and stable versions of the software are stored<br/>
+here.<br/>
 <br/>
 ### Warning! Beta and Stable branches are not yet ready!
