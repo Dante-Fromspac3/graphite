@@ -49,7 +49,7 @@ label start:
 
 label route0:
 
-    # Set Emily expression to giggle.
+    show chr-emily-smilebig at truecenter
 
     e "You completely forgot about the festival didn’t you?"
     
@@ -57,7 +57,7 @@ label route0:
     
     e "That is so you."
 
-    show chr-emily-neut
+    show chr-emily-neut at truecenter
 
     e "Anyway, I'm on the student committee, we oversee all the club\
     activities."
@@ -93,11 +93,11 @@ label route0:
 
         j "Yeah, I heard about that. Gentrification or something right?"
 
-        show chr-emily-smile
+        show chr-emily-smile at truecenter
 
         e "Yes! That’s exactly it!"
 
-        show chr-emily-neut
+        show chr-emily-neut at truecenter
 
         e "And ever since the new train station got built,\
         the city wants to let some tech companies build offices and luxury\
@@ -127,7 +127,7 @@ label route0:
 
     label route0b:
 
-        show chr-emily-smile
+        show chr-emily-smile at truecenter
 
         e "Great! I knew I could count on you! The fair is after last\
         bell in the student commons, okay?"
@@ -144,7 +144,7 @@ label route0:
 
     label route0c:
 
-        show chr-emily-annoy
+        show chr-emily-annoy at truecenter
 
         e "Really? Like what?"
 
@@ -182,7 +182,7 @@ label route0:
 
         label route0c2:
 
-            show chr-emily-disgust
+            show chr-emily-disgust at truecenter
 
             $ emily_points_love -= 1
 
@@ -206,7 +206,7 @@ label route0:
 
 label route1:
 
-    show chr-emily-disap
+    show chr-emily-disap at truecenter
 
     e "I mean, I guess I understand, {w}but this is for a good cause and I\
     promise it will be really fun."
@@ -229,13 +229,14 @@ label route1:
 
     label route1b:
 
-        show chr-emily-annoy
+        show chr-emily-annoy at truecenter
 
         e "It's not a no I guess."
 
-        show chr-emily-neut
+        show chr-emily-neut at truecenter
 
-        e "Anyway, if you want to join us, the club fair is after last bell in the student commons."
+        e "Anyway, if you want to join us, the club fair is after last bell in\
+        the student commons."
 
         #play sound "sch-bell.wav"
 
@@ -244,11 +245,12 @@ label route1:
 
     label route1c:
 
-        show chr-emily-annoy
+        show chr-emily-annoy at truecenter
 
         e "No need to be an ass about it."
 
-        e "Anyway, if you do decide to join us, the club fair is after last bell in the student commons."
+        e "Anyway, if you do decide to join us, the club fair is after last\
+        bell in the student commons."
 
         $ emily_points_love -= 1
 
@@ -259,7 +261,7 @@ label route1:
 
 label route2:
 
-    show chr-emily-surp
+    show chr-emily-surp at truecenter
 
     e "Really? {w}That's great!"
 
@@ -268,7 +270,7 @@ label route2:
 
     j "Yeah, I’ll be there."
 
-    show chr-emily-smile
+    show chr-emily-smile at truecenter
 
     e "Great, I’ll see you there then!"
 
