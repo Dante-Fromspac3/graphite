@@ -111,12 +111,115 @@ James: You are quite the determined woman, aren’t you?
 
 Celia: (laughs) How else is a girl to get what she wants?
 
+James: So how did you get involved with the Art club?
+
+Celia: Oh, my friends were in it. See, like two years ago there was this group of seniors who got famous for tagging and stuff like that. 
+Anyway, they got caught and put in a diversion program, where they had to do community art projects, 
+stuff like murals and displays for the city.
+
+James: Really? I didn’t know they did stuff like that.
+
+Celia: I know right? These guys were really good, and rather than punish them for their talent, they were redirected to, you know, 
+doing art for the betterment of the community or something.
+
+James: So how did we get from that to the art club?
+
+Celia: One of their mentors was the old Art teacher, Ms. Jennings, who helped them set up the club as a way to get their community service hours done. 
+It just kind of morphed into a club from there.
+
+James: And then you joined when…
+
+Celia: I was helping my bff make burning man costumes, we would use the space to sew and design. I just kind of fell into it really.
+
+James: So, do you do a lot of sewing?
+
+Celia: (laughs) Honey, I do a bit of everything. Pottery, acrylics on canvas, spray paint on concrete, macrame, and I've even dabbled in sculpture recently.
+
+James: A regular renaissance woman.
+
+Celia: You know it!
+
+James: Buuuut…
+
+Celia: (disappointed) But?
+
+James: I’m not artistically inclined…
+
+Celia: Pffft. Is that all? No worries, I taught primary schoolers art for a local after school program for the past two years. 
+I think I can manage with you.
+
+James: You run a club and teach after school programs?
+
+Celia: (laughs) yeah, but one is a passion project, the other pays minimum wage so… Plus, the schedule doesn’t overlap.
+
+James: How often does the club meet?
+
+Celia: Twice a week, but I’ll warn you, it's not always the same days haha.
+
+James: Why the inconsistency?
+
+Celia: Well, if we’re firing something or glazing, we might need to schedule back to back meetings, or if we’re working with machine shop equipment, 
+we might need to wait for availability.
+
+James: Wow, you really go all out.
+
+Celia: (smug) Mhmm. So I can just go ahead and sign you up, right?
+
 *James gains some affection with Celia*
 
 Story converges
 
 If option B:
 Celia: Right? Everyday with me you learn something new, kinda makes you want to join the art club doesn’t it?
+
+James: So how did you get involved with the Art club?
+
+Celia: Oh, my friends were in it. See, like two years ago there was this group of seniors who got famous for tagging and stuff like that. Anyway, they got caught and put in a diversion program, where they had to do community art projects, stuff like murals and displays for the city.
+
+James: Really? I didn’t know they did stuff like that.
+
+Celia: I know right? These guys were really good, and rather than punish them for their talent, they were redirected to, you know, doing art for the betterment of the community or something.
+
+James: So how did we get from that to the art club?
+
+Celia: One of their mentors was the old Art teacher, Ms. Jennings, who helped them set up the club as a way to get their community service hours done. It just kind of morphed into a club from there.
+
+James: And then you joined when…
+
+Celia: I was helping my bff make burning man costumes, we would use the space to sew and design. I just kind of fell into it really.
+
+James: So, do you do a lot of sewing?
+
+Celia: (laughs) Honey, I do a bit of everything. Pottery, acrylics on canvas, spray paint on concrete, macrame, and I've even dabbled in sculpture recently.
+
+James: A regular renaissance woman.
+
+Celia: You know it!
+
+James: Buuuut…
+
+Celia: (disappointed) But?
+
+James: I’m not artistically inclined…
+
+Celia: Pffft. Is that all? No worries, I taught primary schoolers art for a local after school program for the past two years. I think I can manage with you.
+
+James: You run a club and teach after school programs?
+
+Celia: (laughs) yeah, but one is a passion project, the other pays minimum wage so… Plus, the schedule doesn’t overlap.
+
+James: How often does the club meet?
+
+Celia: Twice a week, but I’ll warn you, it's not always the same days haha.
+
+James: Why the inconsistency?
+
+Celia: Well, if we’re firing something or glazing, we might need to schedule back to back meetings, or if we’re working with machine shop equipment, 
+we might need to wait for availability.
+
+James: Wow, you really go all out.
+
+Celia: (smug) Mhmm. So I can just go ahead and sign you up, right?
 
 Story converges:
 
@@ -143,6 +246,56 @@ Story converges
 If 2c
 
 Celia: Hmmm...Alright, since you apologized and all that, but just so you know, shit like that is a major trigger for me.
+
+James: So, uhh, how did you get involved with the Art club?
+
+Celia: Oh, my friends were in it. See, like two years ago there was this group of seniors who got famous for tagging and stuff like that. Anyway, they got caught and put in a diversion program, where they had to do community art projects, stuff like murals and displays for the city.
+
+James: Really? I didn’t know they did stuff like that.
+
+Celia: I know right? These guys were really good, and rather than punish them for their talent, they were redirected to, you know, doing art for the betterment of the community or something.
+
+James: So how did we get from that to the art club?
+
+Celia: One of their mentors was the old Art teacher, Ms. Jennings, who helped them set up the club as a way to get their community service hours done. It just kind of morphed into a club from there.
+
+James: And then you joined when…
+
+Celia: I was helping my bff make burning man costumes, we would use the space to sew and design. I just kind of fell into it really.
+
+James: So, do you do a lot of sewing?
+
+Celia: (laughs) Honey, I do a bit of everything. Pottery, acrylics on canvas, spray paint on concrete, macrame, and I've even dabbled in sculpture recently.
+
+James: A regular renaissance woman.
+
+Celia: You know it!
+
+James: Buuuut…
+
+Celia: (disappointed) But?
+
+James: I’m not artistically inclined…
+
+Celia: Pffft. Is that all? No worries, I taught primary schoolers art for a local after school program for the past two years. I think I can manage with you.
+
+James: You run a club and teach after school programs?
+
+Celia: (laughs) yeah, but one is a passion project, the other pays minimum wage so… Plus, the schedule doesn’t overlap.
+
+James: How often does the club meet?
+
+Celia: Twice a week, but I’ll warn you, it's not always the same days haha.
+
+James: Why the inconsistency?
+
+Celia: Well, if we’re firing something or glazing, we might need to schedule back to back meetings, or if we’re working with machine shop equipment, we might need to wait for availability.
+
+James: Wow, you really go all out.
+
+Celia: (smug) Mhmm. So I can just go ahead and sign you up, right?
+
+*Loses some affection with Celia*
 
 Story converges
 
@@ -222,16 +375,36 @@ James: Not too long, what are you watching?
 Anna: Oh! Right, I just finished Promising Young Woman. I’m kinda on a female director binge at the moment.
 
 James:
-Oh yeah? What was it about?
-I take it this is the film club then, right?
-Good movies are good movies, SJW’s always wanna make things about race and gender.
+1. Oh yeah? What was it about?
+2. I take it this is the film club then, right?
+3. Good movies are good movies, SJW’s always wanna make things about race and gender.
+
 If option 1:
 
 Anna: It's great! It’s a dark comedy about a woman who wants to avenge her best friend who died after being sexually assaulted.
 
 James: That..certainly is dark. And it's a comedy?
 
-Anna: Mhmm. It shines a light on a lot of the violence perpetrated against women and the struggles we face under a patriarchal society. Its heavy subject matter, but pointing out the absurdity of these systems is oddly cathartic and hilarious.
+Anna: Mhmm. It shines a light on a lot of the violence perpetrated against women and the struggles we face under a patriarchal society. Its heavy subject matter, 
+but pointing out the absurdity of these systems is oddly cathartic and hilarious.
+
+James: I don’t know, the subject matter is a little…
+
+Anna: Well, it's supposed to be jarring and make you uncomfortable, sexual assault and violence is not something that should be lighthearted 
+or just some background detail used for plot contrivances or shock value. These acts of violence are traumatizing 
+and have lasting effects and consequences, if you’re going to pull that trigger, it has to bear the weight of that. 
+
+James: I suppose you're right, but so often I see it used in slasher or horror films and it's just a total turnoff.
+
+Anna: Oh, well those are trash genres anyway. Don’t get me wrong, I love a good horror flick, but too often 
+they’re just cheap studio cash grabs by hacks who wanna throw shock value against the wall to see what sticks. 
+More often than not it's also made through the lens of and catering to the male gaze, the writers and directors 
+who put these scenes in film neither comprehend nor care about the ramifications, they just want shock value.
+
+James: You’re really knowledgeable and passionate about this sort of thing, aren't you?
+
+Anna: (blushes) I mean...yes? Sorry, sometimes I get caught up in….I just get caught up in stuff and forget I’m not the only one in the room haha...
+
 
 *return to options*
 *option 1 removed*
@@ -256,6 +429,38 @@ Anna (embarrassed): Thanks...in truth, I only recently became de facto club pres
 James: Oh cool, you must be really passionate about film.
 
 Anna: Yeah, you could say that (nervous laughter) but to answer your first question, we generally meet up to watch a movie and discuss its themes, cinematography, writing, the acting, you, the various parts that make up a film. So, there’s always a little bit of something for everyone…
+
+James: What are some of your favorite movies?
+
+Anna (excited): Oh my God! There are so many!
+
+James: Any I’ve ever heard of?
+
+Anna: You’d be surprised, not all good films are arthouse, and not all arthouse is good. Recently, I really liked Censor and of course Promising Young Woman, but I also like some older classics like The Seventh Seal. For foreign films, I really liked Sueño en otro idioma, a mexican film that's super good. But I also really liked The Lord of the Rings Trilogy, and I’ve seen both Pitch Black with Vin Diesel, the 1982 Conan movie and O.G. Predator so many times I can probably quote both of them for you verbatim.
+
+James: Ok, those last two came out of left field.
+
+Anna: But they’re classics! Like, I have a lot of criticisms for that machismo big man with a bigger gun era of the 90’s, but you can’t deny the star power of 90’s Arnold. He was really the beginning and end of an era, it's fascinating really.
+
+James: What about any of the new cinematic universe stuff coming out?
+
+Anna: (disgusted) You mean that factory produced Disney crap? That's just capitalism. It's not art. Sorry not sorry if that sounds elitist.
+
+James: A little gatekeep-y maybe. I mean, I liked some of the Disney marvel stuff, they totally ruined star wars though.
+
+Anna: I’m not saying people can’t like what they like, I’m just pointing out that the landscape has become so saturated by the cash grabs and recycled ip’s that new creative works don’t hardly stand a chance. 
+
+James: Through major studios maybe, but with platforms like youtube and vimeo, it's easier than ever to just skirt the studios and get your own films released. You still need capital and it may not get a wide release, but you can get it out there.
+
+Anna: (in thought) …
+
+James: uh...did I say something wrong?
+
+Anna: No, I mean, yes, kinda. No…
+
+James: huh?
+
+Anna: ...I disagree with you on a couple of points, but that's not the issue. I...it's been a long time since I was able to have these kinds of discussions with anyone. It...it's nice.
 
 *James gains affection*
 
