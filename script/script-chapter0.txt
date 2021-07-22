@@ -14,17 +14,51 @@ James: It never works out with friends, you either confess and ruin the friendsh
 
 James: The way I see it, I’ve got a 50/50 chance, and since its the last year and I can just fuck off to a college across the country if it goes south, I’m making this my year. 
 
+James: Schools been weird these last couple of years. Petty drama and hints of some truly scandalous stuff, but fortunately, I’ve been spared from getting wrapped up in any of it.
+
+James: There’s always something going on somewhere, and I used to get invited to a lot of events, but say no enough times, eventually, most people will stop trying. Which is all the same. Those events usually ended in the aforementioned drama and scandal. That or a shooting.
+
+James: Besides, my thoughts have been dominated with Emily lately, bordering on obsession. 
+
 *Emily enters*
 
-Emily: Oh! Good morning James!
+Emily: Oh! Good morning, James!
 
-James: (internal) Shit! It's Emily, when I said I would shoot my shot this year, I didn’t mean right this moment!
+James: (internal) Speak of the devil...
 
-James (blushing): Morning Emily, what’s up?
+Sorry I missed you over break, my parents rented a cabin in the mountains.
 
-Emily: Oh you know, same old, same old. 
+James: No worries, I’m sure you had a lot more fun in the woods than anything happening out here.
 
-Emily: Hey! Glad I caught you, were you planning on joining any clubs?
+Emily: Don’t get me wrong, I love being out in nature, but the festival of lights sounded interesting. Maybe we can go next year?
+
+James: Uh, yeah, sure. But, this is our senior year…
+
+Emily: (laughs) So? What, are you looking to skip town as soon as you get your diploma in hand?
+
+James: No! I mean, I just figured you were going to college or something.
+
+Emily:Oh, I am, but I think I might stay local. I’ve pretty much only applied to North and South State University. Oh! And University of the West.
+
+James: University of the West huh? Fancy.
+
+Emily: What about you? I hear you scored top of the class in the latest batch of standardized b.s.
+
+James: Ugh...don’t remind me. I’ve barely started applying. I’m not even sure what I want to major in.
+
+Emily: Well, what are some of your interests?
+
+James: I’m not really sure yet, haven’t given it much thought recently.
+
+Emily: Senior-itis kicking in huh?
+
+James: Something like that...
+
+Emily: Hey! Speaking of, were you planning on joining any clubs?
+
+James: Huh?
+
+Emily: (annoyed) Ugh, clubs! You know, we talked about this just before coming back from break.
 
 Branching paths:
 
@@ -47,23 +81,45 @@ c. After school? Yeah...no...I have plans. Doing other stuff, that’s not in sc
 
 If A:
 
-Emily: You know that big field and empty lot behind the school? It used to be a community market. 
-
-Emily: People would come to sell their art, vendors would sell food, there were musicians palying on weekends, and even a farmers market. 
+Emily: You know that big field and the empty lot behind the school? It used to be a community market. People would come to sell their art, vendors would sell food—there were musicians and even a farmers market. 
 
 James: Really? It just looks like an abandoned lot.
 
-Emily: Well, yeah, now it is, but it wasn’t always. 
+Emily: Well, yeah, now it is, but it wasn’t always. The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
 
-Emily: The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
-
-James: Yeah, I heard about that, Gentrification or something right?
+James: Yeah, I heard about that, gentrification or something, right?
 
 Emily: (happy) Yes! That’s exactly it! And ever since the new train station got built, the city wants to let some tech companies build offices and luxury condos over the lot!
 
 James: That's awful! ...Isn’t it?
 
-Emily: It is! Because even more people will be displaced and this neighborhood will lose the last of its character and charm. 
+Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm. 
+
+James: That’s just what the activists say on the news and stuff though.
+
+Emily: Uh, because it's true? Didn’t you notice how many people transferred out last year? How many people didn’t show up this year?
+
+James: Not particularly…
+
+Emily: Well it's because they’re families were forced to move because they couldn’t pay rent. Even if everyone was working. Remember Enrique?
+
+James: Vaguely...he worked at the hardware store on 24th right?
+
+Emily: Yeah, well last year, his landlord jacked up their rent, and he and his family had to live in their car for the last few months of the semester.
+
+James: Oh shit…
+
+Emily: Sometimes, Enrique even slept at the hardware store, once the owner found out about his situation. It was a big deal because the school was trying to force him to quit his job for being on academic probation.
+
+James: Why was he on academic probation?
+
+Emily: Because he had to work to help pay rent! And once his family was illegally forced out of their home, he had to keep working to save money for his family's move out of state.
+
+James: Wait, he left the state?
+
+Emily: Mmhmm. And it's not just kids at our school, it's across the city stuff like this is happening.
+
+James: Wait a minute, what does this have to do with clubs and festivals though?
 
 Emily: The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
 
@@ -71,12 +127,31 @@ James: Sounds like a big deal.
 
 Emily: It totally is! That’s why you’ll help out by joining a club, right?
 
-Return to options B and C
-
+Return to options B and C.
 
 If B:
 
-Emily (happy): Great! I knew I could count on you! The fair is after last bell in the student commons, ok?
+Emily: (happy) Great! I knew I could count on you! The fair is after the last bell in the student commons, okay?
+
+James: How could I miss it? But uh...what are these clubs exactly?
+
+Emily: Well, there’s actually a lot, the only ones doing an event for the festival are the art, film, music, gardening, and cooking clubs.
+
+James: What about the TCG and fighting game clubs? And what about the Jujitsu club?
+
+Emily: (smiles) So you are paying attention. They’re still around, just not a major part of the festival.
+
+James: Why not? Shadow monsters just released a new season, it's incredibly popular. You could set up a table and--
+
+Emily: What? Place bets? 
+
+James: Ummm…
+
+Emily: (laughs) You guys are sooo predictable, you just want to play your stupid card game. Which is why it's not a part of the festival. The school wants to promote the classics.
+
+James: Makes sense I suppose...still don’t like it.
+
+Emily: You already promised to show up...
 
 James: Yeah, see you there.
 
@@ -84,9 +159,9 @@ James: Yeah, see you there.
 
 Emily: For sure, see you there!
 
-James gets positive affection with emily
+James gets positive affection from Emily.
 
-Story converges here
+The story converges here.
 
 
 If C:
@@ -99,10 +174,47 @@ James:
 	3c:  I don’t know, jerk off maybe?
 If 1c:
 
-Emily: Really? Huh, I didn’t know that about you. Well, I hope you reconsider, we could use all the help we can get for the festival.
+Emily: Really? Huh, I didn’t know that about you.
+
+James: Yeah, well, it doesn’t really come up in conversation much.
+
+Emily: Do you still do the charcoal sketches?
+
+James: (embarrassed) you remember that?
+
+Emily: (laughs) of course!
+
+James: no, I don’t do that anymore. I sucked at it anyway.
+
+Emily: I don’t think it was that bad.
+
+James: Thanks…
+
+Emily: So what do you do there?
+
+James: I told you, just...people watch. That, and I really like their coffee.
+
+Emily: Is this the place by the fountain in the park?
+
+James: Yeah, how did you know?
+
+Emily: I've seen you heading that way before. It’s pretty picturesque.
+
+James: Yeah, it's a nice reprieve, gives me time to collect my thoughts.
+
+Emily: (laughs) You are SUCH an old man!
+
+James: …
+
+Emily: Oh, don’t pout. I’m just joking with you.
+
+James: I know, but I was really looking forward to going today...
+ 
+Emily: (sighs) Well, I hope you reconsider, we could use all the help we can get for the festival.
 
 *bell rings*
-Story converges here
+
+The story converges here.
 
 If 2c:
 
@@ -118,9 +230,6 @@ If 3c:
 Emily: (disgusted) you know what, forget I asked.
 
 *bell rings*
-
-
-
 
 Emily: Oh shoot, I’m going to be late. Anyway, the club fair is after last bell in the student commons. 
 
@@ -139,21 +248,45 @@ c. Yeah, no.
 
 If A:
 
-Emily: You know that big field and empty lot behind the school? It used to be a community market. People would come to sell their art, vendors would sell food, there were musicians, and even a farmers market. 
+Emily: You know that big field and the empty lot behind the school? It used to be a community market. People would come to sell their art, vendors would sell food, there were musicians and even a farmers market. 
 
 James: Really? It just looks like an abandoned lot.
 
-Emily: Well, yeah, now it is, but it wasn’t always. 
+Emily: Well, yeah, now it is, but it wasn’t always. The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
 
-Emily: The city just got too expensive and people who’ve been here for generations got displaced, and the market kind of died out.
-
-James: Yeah, I heard about that, Gentrification or something right?
+James: Yeah, I heard about that, gentrification or something, right?
 
 Emily: (happy) Yes! That’s exactly it! And ever since the new train station got built, the city wants to let some tech companies build offices and luxury condos over the lot!
 
 James: That's awful! ...Isn’t it?
 
-Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm.
+Emily: It is because even more people will be displaced and this neighborhood will lose the last of its character and charm. 
+
+James: That’s just what the activists say on the news and stuff though.
+
+Emily: Uh, because it's true? Didn’t you notice how many people transferred out last year? How many people didn’t show up this year?
+
+James: Not particularly…
+
+Emily: Well it's because they’re families were forced to move because they couldn’t pay rent. Even if everyone was working. Remember Enrique?
+
+James: Vaguely...he worked at the hardware store on 24th right?
+
+Emily: Yeah, well last year, his landlord jacked up their rent, and he and his family had to live in their car for the last few months of the semester.
+
+James: Oh shit…
+
+Emily: Sometimes, Enrique even slept at the hardware store, once the owner found out about his situation. It was a big deal because the school was trying to force him to quit his job for being on academic probation.
+
+James: Why was he on academic probation?
+
+Emily: Because he had to work to help pay rent! And once his family was illegally forced out of their home, he had to keep working to save money for his family's move out of state.
+
+James: Wait, he left the state?
+
+Emily: Mmhmm. And it's not just kids at our school, it's across the city stuff like this is happening.
+
+James: Wait a minute, what does this have to do with clubs and festivals though?
 
 Emily: The festival is our last chance to bring back a timeless tradition and cornerstone of our community! People used to come from across the city to the market for art, music, and food.
 
@@ -161,7 +294,8 @@ James: Sounds like a big deal.
 
 Emily: It totally is! That’s why you’ll help out by joining a club, right?
 
-Return to options B and C
+Return to options B and C.
+
 
 If B:
 
