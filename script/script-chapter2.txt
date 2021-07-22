@@ -8,9 +8,9 @@ Emily: (laughs) Well, you have to pass your trials first before you can join the
 
 James:
 
-Wait, we have a basement?
-...For reals?
-Is it a blood ritual or an orgy?
+1. Wait, we have a basement?
+2. ...For reals?
+3. Is it a blood ritual or an orgy?
 
 If 1:
 
@@ -58,6 +58,7 @@ Story continues:
 Sara (generic background character): Hi, I'm sara.
 
 Marcus:...I’m Marcus.
+
 Caleb: Caleb. I’m the treasurer. However, you look familiar, didn’t we go to middle school together?
 
 James: I don’t recall, maybe?
@@ -116,7 +117,7 @@ Caleb: We can bring in another club, the club approval fees should cover at leas
 
 Emily: (exasperated) Don’t tell me, the mentalists again?
 
-James: Mentalists? Aren’ those like wannabe psychics?
+James: Mentalists? Aren’t those like wannabe psychics?
 
 Caleb: (annoyed) No. Mentalism is the subtle art of subterfuge, misdirection, and manipulation to make a target believe you have psychic prowess, when in reality, you simply guided them to the conclusion of your choosing.
 
@@ -371,71 +372,72 @@ Story Continues:
 Art Club
 Title card: The next week
 
-Celia: OH! Hey, Jamie, over here!
+Celia: Oh! Hey, Jamie, over here!
 
 James: How’s it going? Sorry if I’m too early…
 
-Celia: no problem dude, at least you showed. We’ve had people wander in at the end of club or like three weeks into the semester before.
+Celia: No problem dude, at least you showed. We’ve had people wander in at the end of the club or like three weeks into the semester before.
 
-James:That's an artist for you, right?
+James: That's an artist for you, right?
 
-Celia: *laughs* totally! (annoyed) wait a minute ese, what are you tryna say exactly?
+Celia: *laughs* Totally! (annoyed) Wait a minute, esse, what are you tryna say exactly?
 
-James: Uh...I didn’t mean anything by it, I’m just a little nervous and trying to lighten the mood….
+James: Uh...I didn’t mean anything by it, I’m just a little nervous and trying to lighten the mood…
 
 Celia: *laughs* Dude! Lighten up! I’m just messin’ wit’ chu. Artists are notoriously total flakes.
 
 James: I figured but…
 
-Celia: Look, i’m not even going that hard into my spicy latina game, you need to toughen up if you want to make it in art club.
+Celia: Look, I’m not even going that hard into my spicy Latina game, you need to toughen up if you want to make it to the art club.
 
 James:
-No, no, that’s not it. I just came in expecting habanero’s and you give me jalapeno’s
-I’m really nervous actually, I’m not much of a people person
-I’m just not tryna get shot by gangbanger relatives
+1. No, no, that’s not it. I just came in expecting habaneros and you give me jalapenos.
+2. I’m really nervous actually, I’m not much of a people person.
+3. I’m just not tryna get shot by gangbanger relatives.
 
-If option 1:
+If option 1: No, no, that’s not it. I just came in expecting habaneros and you give me jalapenos.
 
-Celia: (smirks) Ok, ok, my bad corazon, but I’m Colombian, we don’t use peppers in our cooking. That's the mexicanos.
+Celia: (smirks) Okay, okay, my bad, corazon, but I’m Colombian, we don’t use peppers in our cooking. That's the Mexicanos.
 
 James: Now you have me curious to try your cooking.
 
 Celia: (smirks) Cute, but don’t push your luck too far. I don’t cook.
 
-*james gains affection with Celia*
+*James gains affection with Celia*
 
 Story converges:
 
-If option 2:
+If Option 2: I’m really nervous actually, I’m not much of a people person.
 
-Celia: (concerned) Oh, can I do anything to help make you more comfortable? I promise I don’t bite. Non-consensually.
+Celia: (concerned) Oh, can I do anything to help make you more comfortable? I promise I won't bite. Non-consensually.
 
-James: It’s just a little much right now, Like I said I’m not much of a people person or club joiner.
+James: It’s just a little much right now—like I said I’m not much of a people person or club joiner.
 
-Celia: Ah, I see the quiet, tortured soul type. I get you.
+Celia: Ah, I see. The quiet, tortured soul type. I get you.
 
-James: I wouldn’t really say i qualify as tortured-
+James: I wouldn’t really say I qualify as tortured—
 
 Celia: Oh! Looks like the other new member is here!
 
 Story converges:
 
-If option 3:
+If Option 3: I’m just not tryna get shot by gangbanger relatives.
 
-Celia: (annoyed) Uh! Rude! Ok, I may not have told you before, but I don't’ get down with that racist shit, and that goes against anyone.
+Celia: (annoyed) Uh! Rude! Okay, I may not have told you before, but I don't get down with that racist shit, and that goes against anyone.
 
-James: i was--
+James: I was—
 
-Celia (annoyed): un-uh! Don’t try and tell me some “it was just a joke bro” bullshit. I gave you my warning. 
+Celia: (annoyed) Nuh-uh! Don’t try and tell me some “it was just a joke bro” bullshit. I gave you my warning. 
 
-*marcus enters*
+*Marcus enters*
 
 Marcus: ...Is this the art club?
-Celia: don’t make me warn you again. (smiles) Yes! It is, you’re definitely in the right place!
 
-*james loses affection with Celia*
+Celia: Don’t make me warn you again. (smiles) Yes! It is, you’re definitely in the right place!
 
-If option 3 with option 1c from club selection:
+*James loses affection with Celia*
+
+If Option 3 with Option 1c from club selection:
 
 Celia: There you go again with that problematic bullshit.
 
@@ -443,11 +445,492 @@ Celia: There you go again with that problematic bullshit.
 
 Marcus: ...Is this the art club?
 
-Celia: You’re lucky I don’t wanna make a scene in front of the new members, but you keep that bullshit up, me and you are gonna have words. (Smiles) Yes! You have definitely come to the right place!
+Celia: You’re lucky I don’t wanna make a scene in front of the new members, but you keep that bullshit up, me and you are gonna have words. (smiles) Yes! You have definitely come to the right place!
 
-Marcus:...Ok…
+Marcus: Okay...
 
-*james loses affection with Celia*
+*James loses affection with Celia*
 
-Story converges
+Story converges:
 
+Story continues:
+
+James: So is this it? Just the three of us?
+
+Celia: No, no, I had convinced a couple of friends to sign up, but they probably won’t be in till later.
+
+James: Later today?
+
+Celia: Later in the semester.
+
+James: Oh…
+
+Celia: Anyway! Jamie, this is Marcus. Marcus, Jamie.
+
+James: Hey.
+
+Marcus: Hmm. So, I’m going to be blunt, I was kinda asked to come here by someone, and don’t know anything about art and painting and stuff like that.
+
+James: Yeah, same…
+
+Celia: (surprised) Oh! Well, thank you for your honesty, and no worries. I’m an excellent teacher.
+
+Marcus: Great, we get classes after class…
+
+Celia: (annoyed) Don’t be such a downer, art is meant for fun and expression. I’m not grading you guys or anything, just showing off the basics.
+
+James: That reminds me...what are we supposed to be doing in this club? We meet twice weekly, right?
+
+Celia: Oh! Yes! We have a totally important thing to do that I completely forgot about! We need to decide what we’re going to do for the festival!
+
+James: For like, a stall?
+
+Celia: Mm-hmm. The festival is going to be a place to showcase our club's art and serve as a fundraiser for next year's activities.
+
+James: What did the club do last year?
+
+Celia: Last year our big project was the mural, and the school covered the expenses, so we didn’t need to fundraise that year. But the year before, we had a couple of girls who were really into beadwork and we made jewelry.
+
+Marcus: I’m not good at delicate work like that…
+
+Celia: (smiles) No worries, neither am I. No, I was thinking of doing something with clay, or for the bold: stone.
+
+James: I’ve whittled some wood before…
+
+Celia: Oh! I think we have some cans of wood varnish laying around somewhere, that could totally work.
+
+Marcus: Hmm...I don’t know about that, it seems too niche.
+
+Celia: (confused) What do you mean?
+
+Marcus: Who in their right mind will pay actual money for some amateur-hour sculptures? Why don’t we do something more marketable, like stickers, anime pins, or not-safe-for-work waifu prints or something?
+
+Celia: (annoyed) Gross. I hate that weird anime crap, they always draw women hella sexualized with unrealistic beauty standards.
+
+James: Don’t you have an OG sailor moon backpack and Saint Saiya pencil case?
+
+Celia: (annoyed) Tch, those are different, that’s part of my childhood.
+
+Marcus: Anyway, we should be focusing on making money and drawing in customers. My sister sells stuff like that at conventions all the time, I’m sure she could pass a few our way.
+
+Celia: Does she go to this school?
+
+Marcus: Does it matter?
+
+Celia: I guess not...but still, the spirit of the club is to showcase something we worked on.
+
+Marcus: But it doesn’t matter if we don’t sell anything.
+
+Celia: If you’re worried about money, don’t be, the school gives us a stipend and we have some materials left over from last year.
+
+Marcus: I wouldn't count on that…
+
+Celia: Hmm?
+
+Marcus: Nothing, never mind. What about you? What do you think?
+
+James: Me?
+
+Celia: (excited) Oh! Yasssss, you get to play the tie-breaker! We were so lost in our discussion I completely forgot you were there! (annoyed) Why you no say nothing?
+
+James: Well…
+
+1. I think it would be fun to make something ourselves, even if it doesn’t sell.
+2. Why can’t we do both? Showcase our talents and make some cash for the next art club.
+3. Yeah, Marcus’ idea sounds way more practical.
+
+If Option 1: I think it would be fun to make something ourselves, even if it doesn’t sell.
+
+Celia: (happy) I knew you would get it! Not to say your sister's anime crap isn’t cool or wouldn’t sell, it's just that the fun in art is creating and experimenting! Who cares if no one buys it? In the end, it just matters that you got to express yourself and create something you wanted to create. Don’t let capitalism ruin the experience.
+
+Marcus: … Whatever. Don’t say I didn't try and warn you.
+
+Celia: Bien! So this semester, we’re making sculptures for the festival! This is going to be sooooo much fun!
+
+Emily: Knock knock. Hope I’m not interrupting anything.
+
+Celia: Oh! Prez is here! Perfect timing, we just decided on what we’re doing for the festival.
+
+Emily: That's great! 
+
+Celia: There was a little debate on what we should do, but Jamie here was the deciding vote.
+
+Emily: (smug) Was he, now? It's a shame it took someone till his senior year to finally join a club.
+
+James: Yeah, yeah, yeah…
+
+Emily: So, what have you decided?
+
+Celia: (excited) Sculptures!
+
+Emily: Sculptures? Like with clay?
+
+Celia: Clay, wood, marble, real renaissance type shit. It’s gonna be wild!
+
+Emily: We have some clay and wood shouldn’t be too hard to get, but marble?
+
+Celia: Oh, don’t worry, it's not as expensive as you think. I found some pink marble for about three dollars a pound, or you can get a six-by-six-by-six cube for about 190.
+
+Emily: (worried) 190 dollars?
+
+Celia: Yeah, oooh! And we’ll also need some sculpting tools, you can get a good chisel for about twenty bucks, and we already have a few hammers.
+
+Emily: Celia, you realize this is an afterschool club, right? We aren’t really flush with cash...especially this year.
+
+Celia: We can pay it back. It’s not like we’re giving this stuff away for free or nothing.
+
+Emily: Still…*sigh* I’ll run it by the committee and see what we can spare.
+
+*James gains affection with Celia*
+
+Story converges:
+
+If Option 2: Why can’t we do both? Showcase our talents and make some cash for the next art club.
+
+Celia: Hmm… I suppose that could work.
+
+Marcus: My sister would probably be willing to work for fifteen percent of the proceeds if the club can provide the materials and assist in manufacturing.
+
+Celia: That's...fair. 
+
+Marcus: It really is.
+
+Emily: Knock knock. Hope I’m not interrupting anything.
+
+Celia: Oh! Prez is here! Perfect timing, we just decided on what we’re doing for the festival.
+
+Emily: That's great! 
+
+Celia: There was a little debate on what we should do, but Jamie here was the deciding vote.
+
+Emily: (smug) Was he, now? It's a shame it took someone till his senior year to finally join a club.
+
+James: Yeah, yeah, yeah…
+
+Emily: So, what have you decided?
+
+Celia: Well, we’re going to sell anime pins and stickers, as well as do some sculpture work with wood and clay.
+
+Emily: Nice! That should be really popular!
+
+Celia: Yeah… We can bring in some funds and still show off our art skills. A win-win.
+
+Emily: (happy) That sounds wonderful! Do you have an idea of what you would need? Bear in mind, we recently had our budget cut…
+
+Celia: Can we get back to you? We just decided right before you stopped by.
+
+Emily: Sure, no problem, just drop it by the student committee room, or I can get it from James some other time.
+
+Story converges:
+
+If Option 3: Yeah, Marcus’ idea sounds way more practical.
+
+Celia: (sad) I see, well, I guess I’m outnumbered…
+
+Marcus: My sister would probably be willing to work for fifteen percent of the proceeds if the club can provide the materials and assist in manufacturing.
+
+Celia: That's...fair.
+
+Marcus: It really is.
+
+Celia: (sad) I guess I just wanted to go out on a bang like last year, we had so much fun.
+
+James: Isn’t the festival all about raising money and saving the market? Shouldn’t that be the priority?
+
+Celia: Yeah, you’re right. I guess I was just being a little selfish...
+
+Emily: Knock knock. Hope I’m not interrupting anything.
+
+Celia: Oh! Prez is here! Perfect timing, we just decided on what we’re doing for the festival.
+
+Emily: That's great! 
+
+Celia: There was a little debate on what we should do, but Jamie here was the deciding vote.
+
+Emily: (smug) Was he, now? It's a shame it took someone till his senior year to finally join a club.
+
+James: Yeah, yeah, yeah…
+
+Emily: So, what have you decided?
+
+Celia: Well, we’re going to sell anime pins and stickers.
+
+Emily: Nice! That should be really popular!
+
+Celia: Yeah...
+
+Emily: (happy) That sounds wonderful! Do you have an idea of what you would need? Bear in mind, we recently had our budget cut…
+
+Celia: Can we get back to you? We just decided right before you stopped by.
+
+Emily: Sure, no problem, just drop it by the student committee room, or I can get it from James some other time.
+
+*James loses affection with Celia*
+
+Story converges:
+
+Story continues:
+
+Celia: I’ll get working on the full list of materials needed this week. 
+
+Emily: No worries, well then, see you later!
+
+Celia: Now then, how about we spend the rest of the time looking through the club room and taking stock of our supplies?
+
+James: So...cleaning up?
+
+Celia: (smiles) If you want to think of it that way—it helps to not.
+
+James: Looking forward to a fun semester…
+
+Marcus: ...
+
+Celia: (frowns) Oh, come on, it doesn’t take that long. There’s a lot of history in this room, we get a lot of donations or buy too many materials and just leave it for the next year's club. Who knows, we might find something fun to work on in between putting together the festival display.
+
+James: 
+
+A. Alright, alright…
+B. I didn’t join to clean up someone else's mess.
+C. How about I start on the budget, and you can have fun sifting through….all of this.
+
+If Option a: Alright, alright…
+
+Celia: That’s the spirit! Now, let's take a look through the paints first…
+
+*James gains affection with Celia*
+
+Story converges:
+
+If Option b: I didn’t join to clean up someone else's mess.
+
+Marcus: Agreed, least of all on the first day, it’s like you’re just taking advantage of newcomers.
+
+Celia: (annoyed) Hmm...what would you suggest then?
+
+Marcus: I would say we should probably get started on the budget, the sooner we get the supplies the better.
+
+James: Agreed, especially if we have to help put things together. I’ve never made pins and stickers before.
+
+Celia: Oh, it's super easy, but I get your point. Jeez, you guys are a couple of killjoys, you know that?
+
+*James loses affection with Celia*
+
+Story converges:
+
+If Option c: How about I start on the budget, and you can have fun sifting through...all of this.
+
+Marcus: Good idea. I’ll work on that one too. Ransack the club yourself, Celia.
+
+Celia: (annoyed) Fine. You guys are really uncooperative.
+
+*James loses some affection with Celia*
+
+Story continues:
+
+Transition: 1 hour later
+
+Celia: Phew! There was a lot of stuff to go through, but at least now the club room looks halfway decent.
+
+Marcus: I got the budget completed, numbers aren’t really my forte, so you might want to go over it.
+
+Celia: (scared/apprehensive) What, me? I’m in an art club for a reason, I hate math. Hell, I’m math-phobic.
+
+James: I can take a look.
+
+Marcus: Go ahead.
+
+James: ...Hmm. We’re cutting it pretty close…
+
+Marcus: This is what we decided to do. 
+
+James: What about the materials here? Anything useful?
+
+Celia *sighs* Not really. The stuff leftover is stuff no one wanted to use, or in poor shape. There are a few lumps of dried out clay I might be able to resuscitate, but nothing for our purposes.
+
+James: I see...anything we can sell?
+
+Celia: No, and even if there was, I would be hesitant to sell off supplies. The next club might need them, or maybe we get started on a project and find out we actually could use something we already got rid of.
+
+Marcus: But we know what we need, we have the list. If we’re thorough, that shouldn’t be an issue.
+
+James: No, I agree. I’d rather have excess than not enough in a creative project.
+
+Marcus: ...Fine.
+
+Celia: Alright, well, we did get a lot done for the first day. Let’s call it quits for today and meet again on thursday? I’ve got to meet up with my friends, the girls who are going to join the club later.
+
+James: Speaking of, why are they joining so late?
+
+Marcus: Moreover, who are they?
+
+Celia: Oh, they were members last year, (saddened) Liz is just going through it after….some stuff went down in a party last summer.
+
+Marcus: Wait, Liz? Liz Cain?
+
+Celia: (Angry) Yes, and if you know about her, I would appreciate you not spread further rumors or talk about it in any way, me escuchas?
+
+James: Wait, what happened?
+
+Celia: Nothing.
+
+Marcus: ...has she gone to the police?
+
+Celia:...no. What are they going to do anyway? Blame her and make her feel worse?
+
+James: I feel like some context would be appropriate.
+
+Marcus: It's nothing, just respect her privacy. Sorry for pressing it.
+
+Celia: It's cool, just...just don’t make things worse, getting her to agree to come back to the club was a big deal, and I don’t want it to be awkward. That goes for you too Jamie.
+
+James: I have no idea what is even going on…
+
+Marcus: I’ll be discreet.
+
+Celia: Good, well then, I'll see you guys next meeting, alright?
+
+*celia and marcus leave*
+
+James: That was...weird.
+
+*emily enters*
+Emily: Hey there.
+
+James: Oh, hey emily. How long have you been there?
+
+Emily: Oh, not long, the committee just ended, and I wanted to come see how you were doing on the first day of club.
+
+James: Well, it was something. Everyone is really psyched and or nervous about this festival though.
+
+Emily: Yeah, there’s a lot riding on it.Not just the community market.
+
+James: Oh? Like what?
+
+Emily: ...Hey, let's walk home today.
+
+James: I assumed that’s why you came, but what aren’t you telling me?
+
+Emily: eh...not in school. We can stop by that cafe you like.
+
+James: Hmm...you usually aren’t the secretive type. Are you buying?
+
+Emily: (giggles) Of course not, your treat!
+
+James: Right...some things never change, do they?
+
+*Transition to cafe*
+
+Emily: Thanks for the coffee!
+
+James: Not like I had a choice….
+
+Emily: What was that? You’re mumbling again.
+
+James: I said I don’t consider an iced caramel latte to be coffee. It’s just milk and sugar with a hint of coffee essence.
+
+Emily: (annoyed) God, you’re such a snob, mister “I’m going to order a dry cappuccino on a warm spring day”.
+
+James:...hmm. It's called taste. 
+
+Emily: (smirks) Uh-huh.
+
+James: Anyway, what was it you didn’t want to tell me at school?
+
+Emily: Recently, club activities have come under fire.
+
+James: Really? What for?
+
+Emily: Well, it's expensive for one, the school subsidizes expenses, but they’ve been tightening the purse strings due to budget cuts and using several...scandals as an excuse.
+
+James: Scandals?
+
+Emily: Yeah...there’s been a lot of stuff the school has tried to keep hidden, a lot of stuff connected to the clubs. During our sophomore year, a girl was assaulted and later committed suicide in the film club.
+
+James: Jesus…
+
+Emily: Then there was the girl in the art club last year, someone got some compromising photos of her and tried to blackmail her. When she tried to fight back, they released the photos in a megaupload, even going so far as to email the photos to her parents' work emails.
+
+James: Holy shit dude… wait…the art club? Was her name Liz Cain?
+
+Emily: And how do you know that name?
+
+James: Celia mentioned she was going to be joining, but was really weird about it, super secretive. Apparently Marcus knew her too.
+
+Emily: Tch. figures…
+
+James: Yet here I am, still blissfully ignorant…
+
+Emily: Marucs is one of Caleb's lackeys, or at the very least, they run in the same circles. There’s no proof, but it's believed that either Caleb himself or those in that little gang of his were the ones who not only took the pictures, but leaked them.
+
+James: What do you mean no proof? Can’t they just ask the victim?
+
+Emily: Nope, she isn’t saying anything.
+
+James: I don’t get it, why is she protecting them after all they’ve done?
+
+Emily: I don’t think she’s protecting them, I think she’s scared.
+
+James: What more could they possibly do to her?
+
+Emily: (annoyed) Is that a serious question?
+
+James: Well, they already leaked her nudes right?
+
+Emily: Exactly. Who knows what else they are capable of doing. I’d be scared too.
+
+James: If you’re so sure he’s behind it, why hasn’t anyone done anything?
+
+Emily: I never said I was “sure”, and besides, nothing can get done based on rumor and conjecture.
+
+James: (sighs) what a fucked up year this is shaping up to be…
+
+Emily: At least it's the last one, right?
+
+James: I mean, Caleb seems like a dick, but is he really behind all of this?
+
+Emily: What do you mean?
+
+James: I just find it hard to believe that a high school student is orchestrating all of this and making girls kill themselves.
+
+Emily: What about all of the leaked nudes and other rumors?
+
+James: Rumors? Nudes get leaked all the time, even celebrities have naked pictures floating around they didn’t want released.
+
+Emily: (annoyed) That’s a pisspoor rationalization.
+
+James: You get what I’m saying, it's just weird.
+
+Emily: Since when are you on team Caleb?
+
+James: I’m not on team anyone, I’m just pointing out it's not logical. Something else is going on. Or it's just a coincidence.
+
+Emily: Or toxic masculinity and patriarchy whitewashing crimes against women?
+James: Sure…
+
+Emily: (pouts) Hmph!
+
+James: (sigh) What about you, how is committee duty?
+
+Emily: Changing the subject now?
+
+James: Obviously…
+
+Emily: (laughs) With the festival organization, it's taking up a lot of my time. We’ve even got press outlets looking to do stories about it, nonprofits and activists groups will be speaking--
+
+James: All for some high school festival?
+
+Emily: I told you, this is big.
+
+James:...I want out.
+
+Emily: What?
+
+James: I'm not trying to be anybody's poster boy. Too much attention, too much hassle.
+
+Emily (laughs): Arrogant much?
+
+James:...
+
+Emily: You just joined a club and think you’re going to be the star of the show? Get real James.
+
+James: Fair point.
