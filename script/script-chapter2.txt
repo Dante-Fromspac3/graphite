@@ -934,3 +934,230 @@ James:...
 Emily: You just joined a club and think you’re going to be the star of the show? Get real James.
 
 James: Fair point.
+
+Emily: (smug) Mhmm. Oh shoot, I have to get home, I forgot mom said she was working late tonight.
+
+James: Let’s get going then, I got way too much homework for the first week back from break…
+
+Scene ends
+
+Transition:
+
+Title Card: The next day of Club
+
+Celia: Buenos Dias!
+
+Marcus: hey…
+
+James: You’re perky for this time of day.
+
+Celia: That's cuz I had a great nap during sixth period, left me feeling refreshed and ready to go!
+
+James: ...I haven’t had my afternoon coffee, I’m not sure I can handle all this positivity and energy right now.
+
+Marcus: same.
+
+Celia: Oh come on! What are you? A couple of old men? We’ve got projects to get started!
+
+James: Was the proposal accepted already?
+
+Celia: Weeeeelll….not exactly. But it wasn’t rejected! 
+
+James: Leaving us...where exactly?
+
+Celia: Not sure, but we have some time while we wait for the committee response, so let's do some art?
+
+Marcus: It is an art club.
+
+Celia: (laughs) Right? I found these mostly empty sketchbooks and some charcoal, we can go out and sketch some scenery or people or something.
+
+James:...
+
+Celia: huh? What’s the matter Jamie?
+
+James: Nothing. 
+
+Celia: Okay then, well, let's get going! We can go to the park across from the school!
+
+Transition to park:
+
+If James has 5 or more affection with Celia and chose option 1. I think it would be fun to make something ourselves, even if it doesn’t sell:
+
+James: hmmm….no...that’s not right…
+
+Celia:....
+James: Damnit, it's too dark again…
+
+Celia: you’re pressing down too hard.
+
+James: Huh!?
+
+Celia: (giggles) Sorry to startle you.
+
+James: no, you’re fine, I just suck at this is all...
+
+Celia: Actually, you’re pretty good, you just press down hard like it were a pen, you barely need to press on the paper for the charcoal to leave a mark. Like this, see?
+
+James: Oh! And it’s not as black either!
+
+Celia: Mhmm. It's how you do shading and show softer textures. Here.
+
+Insert CG of James and Celia getting close on the lawn to draw:
+
+Celia: We’re going to practice control with a greyscale exercise. Do you have a blending stump?
+
+James: Uh...no…
+
+Celia: Here, you can use mine. So I want you to go from dark to light, and use the blending stump to create a smooth transition.
+
+James: Alright… is this light enough?
+
+Celia: Hmmm, it's better, but I think you can go a couple shades lighter.
+
+James: ….like this?
+
+Celia: Ah! Muy bien! You catch on quick!
+
+End CG:
+
+James: Thanks, I used to do it on my own but…
+
+Celia: You got discouraged cuz it didn’t turn out how you wanted?
+
+James: Yeah, how did you know?
+
+Celia: (smiles) Self doubt is a cornerstone of the artist's experience.
+
+James: How do you move past it though?
+
+Celia: You don’t. The key is to make it work for you rather than against you.
+
+James: What do you mean?
+
+Celia: Well, you can use that self doubt and feelings of inadequacy to push you towards honing and improving your skills, or, you can let it crush you and give up on art entirely.
+
+James: That’s pretty black and white....
+
+Celia: Yeah, but like this charcoal, there’s a whole mess of grey in between, you just have to know how to tease it out. Art’s meant to be fun and expressive. So long as you never lose sight of that, it doesn’t matter if it's terrible or brilliant, you did something that was meaningful to you.
+
+James: Huh, that actually makes a lot of sense.
+
+Celia: What do you mean actually? Of course it makes sense!
+
+James: I didn’t mean it like--
+
+Celia (laughs): I know what you meant. Just don’t lose sight of the fun in art, and the more you do it, the better you’ll become.
+
+Story converges:
+
+If less than 5 affection and choose option 1 Or option 2 with any affection:
+
+James: hmmm….no...that’s not right…
+
+Celia:....
+
+James: Damnit, it's too dark again…
+
+Celia: you’re pressing down too hard.
+
+James: Huh!?
+
+Celia: (giggles) Sorry to startle you.
+
+James: no, you’re fine, I just suck at this is all...
+
+Celia: Actually, you’re pretty good, you just press down hard like it were a pen, you barely need to press on the paper for the charcoal to leave a mark. Like this, see?
+
+James: Oh! And it’s not as black either!
+
+Celia: Mhmm. It's how you do shading and show softer textures. Try making a greyscale.
+
+James: How do I do that?
+
+Celia: Well, the way I was taught was to go as dark as you can on one end, then make a middle shade, and then a light shade. Then you work to fill in the missing pieces going from light to dark or dark to light.
+
+James: sounds simple enough…
+
+Celia: Here, use this, it's called a blending stump, it helps with shading and making the transitions smoother.
+
+James: It's like a paper pencil with no lead.
+
+Celia: Uh-huh. Try rubbing it on the dark part you made, as if you were trying to move the charcoal.
+
+James: Oh! It's smearing, but…
+
+Celia: It's not as dark right?
+
+James: Heh...I had given up on drawing with charcoal because I could never get it to look how I wanted, or how people on instagram or reddit had been able to create these lifelike images. Turns out I was more lost than I initially thought…
+
+Celia: I mean, it's a little arrogant to think you can make lifelike images right out the gate, especially if you don’t even know the proper techniques and tools. Those people you're talking about probably spent years honing their craft.
+
+James: yeah...you’re right…
+
+Celia: But don’t get discouraged! That's what we’re here to learn right? I can give you the fundamentals, and if you put in the effort to practice and grow, then I'm sure you can make gram worthy art of your own.
+
+James: Heh, yeah...thanks.
+
+Celia: No problem!
+
+Story converges:
+
+If chose option 3:
+
+James: hmmm….no...that’s not right…
+
+Celia:....
+James: Damnit, it's too dark again…
+
+Celia: you’re pressing down too hard.
+
+James: Huh!?
+
+Celia: (giggles) Sorry to startle you.
+
+James: no, you’re fine, I just suck at this is all...
+
+Celia: Actually, you’re pretty good, you just press down hard like it were a pen, you barely need to press on the paper for the charcoal to leave a mark. Like this, see?
+
+James: Oh! And it’s not as black either!
+
+Celia: Mhmm. It's how you do shading and show softer textures. Try making a greyscale.
+
+James: How do I do that?
+
+Celia: Well, the way I was taught was to go as dark as you can on one end, then make a middle shade, and then a light shade. Then you work to fill in the missing pieces going from light to dark or dark to light.
+
+James: sounds simple enough…
+
+Celia: Here, use this, it's called a blending stump, it helps with shading and making the transitions smoother.
+
+James: Like this?
+
+Celia (cringing): Not..exactly…
+
+James: Oh…
+
+Celia: Well, don’t worry too hard, charcoal drawing isn’t for everyone, and it's not like we are going to need to showcase our art skills for the festival, since Marcus’ sister is drawing everything.
+
+James: I guess…
+
+Celia: Well, hopefully we can find something else you might be better suited for, perhaps painting? Or clay?
+
+James: Nah, I don’t think so. I think I’m just not really suited for art.
+
+Celia: (sighs) There was a time when I would have argued against that and taken it upon myself to find something you were good at or enjoyed.
+
+James: And now?
+
+Celia:(sad) Now? I kinda agree with you. No one cares about art anymore. Unless you can make a buck off it. I should go make a stupid meme and put it up as an NFT to cash in before that market crashes.
+
+James: People still do those?
+
+Celia: I don’t know dude. I do know that this country has no artistic soul anymore. Swallowed up by capitalism, just like all our hopes and dreams.
+
+James: Why do you keep the club going? It doesn’t sound like you enjoy it much anymore.
+
+Celia: (sighs) That might be true, but I owe it to those who still believe in art. Because deep down, I know I still do.
+
+Story converges:
+
